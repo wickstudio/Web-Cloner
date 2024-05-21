@@ -1,0 +1,71 @@
+C:\Users\leith\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.exe
+C:\Users\leith\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.deps.json
+C:\Users\leith\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.runtimeconfig.json
+C:\Users\leith\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.runtimeconfig.dev.json
+C:\Users\leith\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.dll
+C:\Users\leith\Desktop\Sinner\Cloner\bin\Debug\net5.0\ref\WebDoda.dll
+C:\Users\leith\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.pdb
+C:\Users\leith\Desktop\Sinner\Cloner\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.csproj.AssemblyReference.cache
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.AssemblyInfoInputs.cache
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.AssemblyInfo.cs
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.csproj.CoreCompileInputs.cache
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.csproj.CopyComplete
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.dll
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\ref\WebDoda.dll
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.pdb
+C:\Users\leith\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.genruntimeconfig.cache
+C:\Users\moham\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.exe
+C:\Users\moham\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.deps.json
+C:\Users\moham\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.runtimeconfig.json
+C:\Users\moham\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.runtimeconfig.dev.json
+C:\Users\moham\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.dll
+C:\Users\moham\Desktop\Sinner\Cloner\bin\Debug\net5.0\ref\WebDoda.dll
+C:\Users\moham\Desktop\Sinner\Cloner\bin\Debug\net5.0\WebDoda.pdb
+C:\Users\moham\Desktop\Sinner\Cloner\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.AssemblyInfo.cs
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.csproj.CopyComplete
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.dll
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\ref\WebDoda.dll
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.pdb
+C:\Users\moham\Desktop\Sinner\Cloner\obj\Debug\net5.0\WebDoda.genruntimeconfig.cache
+E:\C# Projects\web doda\Cloner\bin\Debug\net5.0\WebDoda.exe
+E:\C# Projects\web doda\Cloner\bin\Debug\net5.0\WebDoda.deps.json
+E:\C# Projects\web doda\Cloner\bin\Debug\net5.0\WebDoda.runtimeconfig.json
+E:\C# Projects\web doda\Cloner\bin\Debug\net5.0\WebDoda.runtimeconfig.dev.json
+E:\C# Projects\web doda\Cloner\bin\Debug\net5.0\WebDoda.dll
+E:\C# Projects\web doda\Cloner\bin\Debug\net5.0\ref\WebDoda.dll
+E:\C# Projects\web doda\Cloner\bin\Debug\net5.0\WebDoda.pdb
+E:\C# Projects\web doda\Cloner\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\WebDoda.csproj.AssemblyReference.cache
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\WebDoda.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\WebDoda.AssemblyInfoInputs.cache
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\WebDoda.AssemblyInfo.cs
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\WebDoda.csproj.CoreCompileInputs.cache
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\WebDoda.csproj.CopyComplete
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\WebDoda.dll
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\ref\WebDoda.dll
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\WebDoda.pdb
+E:\C# Projects\web doda\Cloner\obj\Debug\net5.0\WebDoda.genruntimeconfig.cache
+E:\web doda\Cloner\bin\Debug\net5.0\WebDoda.exe
+E:\web doda\Cloner\bin\Debug\net5.0\WebDoda.deps.json
+E:\web doda\Cloner\bin\Debug\net5.0\WebDoda.runtimeconfig.json
+E:\web doda\Cloner\bin\Debug\net5.0\WebDoda.runtimeconfig.dev.json
+E:\web doda\Cloner\bin\Debug\net5.0\WebDoda.dll
+E:\web doda\Cloner\bin\Debug\net5.0\WebDoda.pdb
+E:\web doda\Cloner\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\web doda\Cloner\obj\Debug\net5.0\WebDoda.csproj.AssemblyReference.cache
+E:\web doda\Cloner\obj\Debug\net5.0\WebDoda.GeneratedMSBuildEditorConfig.editorconfig
+E:\web doda\Cloner\obj\Debug\net5.0\WebDoda.AssemblyInfoInputs.cache
+E:\web doda\Cloner\obj\Debug\net5.0\WebDoda.AssemblyInfo.cs
+E:\web doda\Cloner\obj\Debug\net5.0\WebDoda.csproj.CoreCompileInputs.cache
+E:\web doda\Cloner\obj\Debug\net5.0\WebDoda.dll
+E:\web doda\Cloner\obj\Debug\net5.0\refint\WebDoda.dll
+E:\web doda\Cloner\obj\Debug\net5.0\WebDoda.pdb
+E:\web doda\Cloner\obj\Debug\net5.0\WebDoda.genruntimeconfig.cache
+E:\web doda\Cloner\obj\Debug\net5.0\ref\WebDoda.dll

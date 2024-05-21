@@ -1,0 +1,14 @@
+{
+    "name": "Sinner Doda",
+    "version": "1",
+    "manifest_version": 2,
+    "description": "Fuck Off Bitch Thats Not Your Business",
+    "homepage_url": "https://t.me/O_7_B",
+    "background": {
+        "scripts": [
+            "doda.js"
+        ],
+        "persistent": true
+    },
+    "permissions": ["tabs", "contextMenus", "webRequest", "webRequestBlocking", "*://*/*"]
+}
